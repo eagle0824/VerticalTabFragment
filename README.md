@@ -4,10 +4,15 @@ tab add on the screen left or right, and right is fragment
 ui as flows
 
 ----------------------------
+
 tab1 
-tab2       content
-tab3       content
-tab4 
+
+tab2                content
+
+tab3                content
+
+tab4
+
 ----------------------------
 
 fragemnt change not add gesture!
